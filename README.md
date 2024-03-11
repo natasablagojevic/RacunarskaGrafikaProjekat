@@ -41,6 +41,8 @@ git clone <link>
 
 - Preuzeti i instalirati [*CLion*](https://www.jetbrains.com/clion/download/)
 
+- Ako je potrebno nadograditi C++ na odgovarajuću vreziju 
+
 #### Obrađene teme: 
 
 #### 
